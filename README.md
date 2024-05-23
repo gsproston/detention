@@ -1,3 +1,3 @@
-# Detention
+# detention
 
-run by doing `java -jar Detention.jar`
+game made back in 2012
